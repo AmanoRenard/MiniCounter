@@ -38,7 +38,8 @@ MiniCounter适用于各种场景，以下是一些例子：
 
 ## 示例截图
 
-<img src="https://github.com/AmanoRenard/MiniCounter/assets/92380936/755f3e6a-7c76-41c8-a2aa-01282039c4ae" width="400px" alt="MiniCounter 示例截图"/>
+<img src="https://github.com/AmanoRenard/MiniCounter/assets/92380936/7d0e8c04-f53a-4ab7-8b81-3ebbcf34a2cc" width="400px" alt="MiniCounter 示例截图1"/>
+<img src="https://github.com/AmanoRenard/MiniCounter/assets/92380936/ef44889e-4428-4170-89e0-7b99af3f4e7c" width="400px" alt="MiniCounter 示例截图2"/>
 
 
 ---
